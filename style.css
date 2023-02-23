@@ -10,11 +10,11 @@ html{
   size: 2%;
 }
 .bb{
-  z-index: 0;
+  z-index: -1;
   position :absolute ;
   top:-600px;
   left:-90px;
-      
+      background-image: url("/giphy.webp ");
 height:800vh;
 width :210%;
 background-repeat: no-repeat;
@@ -28,7 +28,7 @@ max-height :2000px;
   position: absolute;
   top: -600px;
   left: -90px;
-  background-image: url("/giphy.webp ");
+  background-image: url("./g.gif");
   height: 800vh;
   width: 310%;
   background-repeat: no-repeat;
