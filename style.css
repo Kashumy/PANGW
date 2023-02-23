@@ -14,7 +14,7 @@ html{
   position :absolute ;
   top:-600px;
   left:-90px;
-      background-image: url("/giphy.webp ");
+      background-image: url("./g.gif");
 height:800vh;
 width :210%;
 background-repeat: no-repeat;
@@ -23,20 +23,7 @@ overflow :hidden ;
 max-width:2000px;
 max-height :2000px; 
 }
-.bb_in desctop {
-  z-index: -1;
-  position: absolute;
-  top: -600px;
-  left: -90px;
-  background-image: url("./g.gif");
-  height: 800vh;
-  width: 310%;
-  background-repeat: no-repeat;
-  background-size: contain;
-  overflow: hidden;
-  max-width: 2000px;
-  max-height: 2000px;
-}
+
 .u{
   
   opacity: 0;
@@ -56,7 +43,7 @@ max-height :2000px;
   color: #00FF78;
 }
 #scro{
-  overflow :scroll ;
+  overflow :scroll;
   height :800px;
   background:#FF009021;
 }
