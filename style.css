@@ -14,7 +14,7 @@ html{
   position :absolute ;
   top:-600px;
   left:-90px;
-      background-image: url("/giphy.webp ");
+      background-image: url("./giphy.webp ");
 height:800vh;
 width :210%;
 background-repeat: no-repeat;
