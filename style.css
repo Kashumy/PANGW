@@ -1,13 +1,12 @@
 html {
     font-size: 15pt;
 
-    overflow :hidden ;
     max-width:900px; 
     background :#000000;
     font-family :Arial ;
 }
 html{
-  size: 2%;
+  
 }
 .bb{
   z-index: -1;
